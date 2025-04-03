@@ -1,0 +1,20 @@
+evaluation;assessment;validation;surveys;survey;questionnaire;questionnaires;infrared thermography;accuracy		
+educational technology;design science;3d scanning;education systems;learning systems;education computing;information systems;head-mounted display;helmet mounted displays,user-computer interface	
+satisfaction;student satisfaction
+human factors in computing;human-centered computing;human factors;humans;human				
+student;students;medical student;medical students;trainee;trainees;intern;interns;			
+user experience;users' experiences;quality of experience;users' experiences		
+virtual reality;virtual reality (vr);virtual-reality		
+science education;science;earth systems			
+simulation;surgical simulation;computer simulation;virtual simulation;simulations		
+hololens;hololens 2				
+learning outcome;clinical competence;skills;outcome;competence;ability		
+gamification;computer games
+engineering education;engineering
+medical education;medical;health;medicine;neuroanatomy;lumbar puncture;anatomy;surgery
+education and training;training;education;learning;e-learning;education computing;active learning;beyond entertainment: education;authentic learning;abstract concept
+construction education;construction
+firefighter training;aerial firefighting
+usability;satisfaction			
+augmented reality;ar
+computer science education;information systems educations

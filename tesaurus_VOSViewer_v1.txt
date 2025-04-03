@@ -1,0 +1,11 @@
+﻿label	replace by
+hololens 2	hololens
+skills	learning outcome
+surgical simulation	simulation
+task	procedure
+virtual reality (vr)	virtual reality
+virtual-reality	virtual reality
+education	education and training
+training	education and training
+human-centered computing	human factors in computing
+human factors	human factors in computing
